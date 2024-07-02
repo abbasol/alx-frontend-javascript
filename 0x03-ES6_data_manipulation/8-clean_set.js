@@ -9,5 +9,3 @@ const cleanSet = (set, startString) => {
   });
   return strings.join('-');
 };
-
-export default cleanSet;
